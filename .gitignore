@@ -1,0 +1,8 @@
+/CMakeFiles
+/out
+/.vs
+/build
+/lua-module
+/artifacts
+
+CMakeCache.txt
